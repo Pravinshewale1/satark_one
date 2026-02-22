@@ -1,0 +1,13 @@
+{
+  "__INSTRUCTIONS__": "Replace this entire file with your google-services.json from Firebase Console",
+  "__STEPS__": [
+    "1. Go to console.firebase.google.com",
+    "2. Select your project",
+    "3. Click the Android app (package: com.satarkone.app)",
+    "4. Download google-services.json",
+    "5. Replace this file with the downloaded one"
+  ],
+  "project_info": {
+    "project_id": "YOUR_PROJECT_ID"
+  }
+}
