@@ -1,5 +1,29 @@
 {
-  "project_info": {"project_id": "satark-one"},
-  "client": [{"client_info": {"android_client_info": {"package_name": "com.satarkone.app"}}}],
+  "project_info": {
+    "project_number": "480080129911",
+    "project_id": "satarkone-45228",
+    "storage_bucket": "satarkone-45228.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480080129911:android:0031abc65c59b2c844bb72",
+        "android_client_info": {
+          "package_name": "com.satarkone.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5RZceW5xWt671RNbvf-RzClq7XkTXS4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
   "configuration_version": "1"
 }
